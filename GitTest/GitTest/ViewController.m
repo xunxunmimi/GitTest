@@ -23,6 +23,8 @@
     
     self.view.backgroundColor = [UIColor cyanColor];
     
+    NSLog(@"蔡晨吃翔");
+    
 }
 
 - (void)didReceiveMemoryWarning {
